@@ -2,7 +2,7 @@
 
 I'm a 4th year PhD candidate at UCSF studying the immunological features associated with progression from premalignant lesions to cancer. My work combines statistical modeling and machine learning with spatial proteomics and transcriptomics to identify clinically relevant features and gain mechanistic insights into tumor immunity. Outside of my thesis I love building programs to enable researchers to interact with their data more (see my repos). I'm also passionate about building AI tools for scientific communication and equity in research. I actively participate in hackathons and volunteer programs across the Bay Area focused on STEM education and advancing research in women's and minority health.
 
-📄 [CV 2026](Zachary_Stensland_PhD_candidate_CV_2025.pdf)
+📄 [CV 2026](./Zachary_Stensland_PhD_candidate_CV_2025.pdf)
 
 ## Research Interests
 
