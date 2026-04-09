@@ -51,8 +51,8 @@ I'm a 4th year PhD candidate at UCSF studying the immunological features associa
 I work with members of the UCSF community to build spatial-omics analysis pipelines, enabling more researchers to make the most of their spatial datasets and grow the community of tissue immunologists. I also mentor undergraduate researchers and contribute to UCSF's Science and Health Education Partnership (SEP) and Mental Health Committee.
 
 ## Projects
-
+- **[PyAV](https://github.com/Zach-Sten/PyAV)** — Interactive inline tools for spatial data inspired by Xenium Explorer, Napari, and CellxGene. Meant to be paired with Seg Wizard!
+- **[Segmentation_Wizard](https://github.com/Zach-Sten/Spatial_Segmentation_Wizard)** - An all in one E2E wrapper for 9 segmentation methods for spatial transcriptomics data with QC reports and Xenium explorer exports built in.
 - **[Ublind](https://github.com/Zach-Sten/Ublind)** — Turns latent data representations (UMAP, PCA) into audio, letting datasets "speak for themselves" by mapping vectors to music.
-- **[PyAV](https://github.com/Zach-Sten/PyAV)** — Interactive inline tools for spatial data inspired by Xenium Explorer, Napari, and CellxGene.
 - **[PySPGAT](https://github.com/Zach-Sten/PySPGAT)** — Interactive inline tools for exploring spatial relationships to gene expression inspired by GIATIII and MISTy.
 - **[GB_HPC](https://github.com/Zach-Sten/GB_HPC)** — A terminal-based Game Boy emulator wrapper, inspired by how early programs packed hours of gameplay into megabytes of data.
