@@ -1,6 +1,6 @@
 # Zachary Stensland — Computational Immunologist
 
-I'm a 4th year PhD candidate at UCSF studying the immunological features associated with progression from premalignant lesions to cancer. My work combines statistical modeling and machine learning with spatial proteomics and transcriptomics to identify clinically relevant features for developing treatment plans and gain mechanistic insights into tumor immunity. Outside of my thesis work I love building programs that enable researchers to interact with their data (see my repos PyAV and the Spatial Segmentation Wizard) even if its just for fun (Ublind). I'm also passionate about building AI tools for scientific communication and equity in research. I actively participate in hackathons and volunteer programs across the Bay area focused on STEM education and advancing research in women's and minority healthcare.
+I'm a 5th year PhD candidate at UCSF studying the immunological features associated with progression from premalignant lesions to cancer. My work combines statistical modeling and machine learning with spatial proteomics and transcriptomics to identify clinically relevant features for developing treatment plans and gain mechanistic insights into tumor immunity. Outside of my thesis work I love building programs that enable researchers to interact with their data (see my repos PyAV and the Spatial Segmentation Wizard) even if its just for fun (Ublind). I'm also passionate about building AI tools for scientific communication and equity in research. I actively participate in hackathons and volunteer programs across the Bay area focused on STEM education and advancing research in women's and minority healthcare.
 
 📄 [CV 2026](./Zachary_Stensland_PhD_candidate_CV_2026.pdf)
 
@@ -27,6 +27,7 @@ I'm a 4th year PhD candidate at UCSF studying the immunological features associa
 - Spatial proteomics and transcriptomics (Xenium, MIBI/IMC, CODEX, MERFISH)
 - Single-cell multi-omic analysis (scRNA-seq, CITE-seq, CyTOF)
 - Pipeline development for spatial-omics datasets
+- Computational Pathology
 
 **Computational & Statistical**
 - Mixed effects modeling (GLMMs) and survival analysis
