@@ -9,7 +9,7 @@ I'm a 5th year PhD candidate at UCSF studying the immunological features associa
 - Cancer immunology and immune evasion
 - Tissue organization, development, and spatial biology
 - Predictive modeling for clinical outcomes
-- Graph machine learning and network biology
+- Machine learning and network biology
 - Autoimmunity
 - Ecology and plant biology
 
