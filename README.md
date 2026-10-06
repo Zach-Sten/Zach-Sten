@@ -15,7 +15,7 @@ I'm a 5th year PhD candidate at UCSF studying the immunological features associa
 
 ## Publications
 
-1. **Qiu J\*, Stensland ZC\*, Lee JH\*, Spitzer MH, Fragiadakis GK, Pelka K.** T cell responses distinguish the subset of oral dysplasias that progress to cancer. (\*co-first authors) *In review at Nature*
+1. **Qiu J\*, Stensland ZC\*, Lee JH\*, Spitzer MH, Fragiadakis GK, Pelka K.** T cell responses distinguish the subset of oral dysplasias that progress to cancer. (\*co-first authors) *In press at Nature*
 2. **Stensland ZC**, Magera CA, Broncucia H, et al. Identification of an anergic BND cell–derived activated B cell population (BND2) in young-onset type 1 diabetes patients. *J Exp Med.* 2023;220(8):e20221604.
 3. **Stensland ZC**, Coleman BM, Rihanek M, et al. Peripheral immunophenotyping of autoimmune thyroid disease patients reveals alterations in immune cell subsets in pediatric vs adult-onset AITD. *iScience.*
 4. **Stensland ZC**, Smith MJ. Enrichment and Detection of Antigen-Binding B Cells for Mass Cytometry. *Magnetochemistry.* 2021;7(7):92.
