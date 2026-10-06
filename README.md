@@ -24,7 +24,7 @@ I'm a 5th year PhD candidate at UCSF studying the immunological features associa
 ## Skills & Methods
 
 **Spatial & Single-Cell Biology**
-- Spatial proteomics and transcriptomics (Xenium, MIBI/IMC, CODEX, MERFISH)
+- Spatial Single Cell proteomics and transcriptomics (Xenium, MIBI/IMC, CODEX, MERFISH)
 - Single-cell multi-omic analysis (scRNA-seq, CITE-seq, CyTOF)
 - Pipeline development for spatial-omics datasets
 - Computational Pathology
@@ -33,7 +33,7 @@ I'm a 5th year PhD candidate at UCSF studying the immunological features associa
 - Mixed effects modeling (GLMMs) and survival analysis
 - Tensor decomposition and multi-modal factor analysis (NMF, MOFA, Tensor-Cell2Cell)
 - Deep learning frameworks (PyTorch, Rapids, Scverse ecosystem)
-- Graph neural networks (GCNs, GNNs, spatial graph attention)
+- Neural Network regressors and classifiers (GATs, GCNs, GNNs, Deepsets)
 
 **AI & LLM Engineering**
 - LLM deployment and fine-tuning (Ollama, Unsloth, QLoRA)
